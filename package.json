@@ -1,11 +1,13 @@
 {
-  "name": "Webalizing Rachel's site",
+  "name": "Webalizing",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
+    "node": "0.10.15",
+    "npm": "1.3.5",
     "express": "3.4.4"
   }
 }
