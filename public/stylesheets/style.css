@@ -188,19 +188,20 @@ font-size:18px;
 	/*box-shadow:0 0 16px 0 rgba(0, 0, 0, 0.9);*/}
 	
 #fourth{
-	background: url(../images/bg/07.jpg) 50% 0 no-repeat fixed;
+	background: url(../images/bg/04.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	min-height: 1400px;
 	margin: 0 auto;
 	overflow: hidden;
 	/*box-shadow:0 0 16px 0 rgba(0, 0, 0, 0.9);*/}
-#fourth .bg{
+/*#fourth .bg{
 	min-height: 1300px;
 	margin: 0 auto;
 	position: absolute;
 	width: 900px;
 	z-index: 200;
 }
+*/
 #fifth{
 	background: url(../images/bg/05.jpg) 50% 0 no-repeat fixed;
 	color: white;
@@ -209,7 +210,7 @@ font-size:18px;
 }
 
 #sixth{
-	background: url(../images/bg/04.jpg) 50% 0 no-repeat fixed;
+	background: url(../images/bg/06.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	min-height: 936px;
 	margin: 0 auto;
@@ -819,7 +820,7 @@ color: #fff !important;
 	}
 		
 	#fourth{
-		background: url(../images/bg/07.jpg) center center no-repeat fixed;
+		background: url(../images/bg/04.jpg) center center no-repeat fixed;
 	background-size: cover;
 	}
 	#fourth .bg{
@@ -830,16 +831,8 @@ color: #fff !important;
 	}
 
 	#sixth{
-		background: url(../images/bg/04.jpg) center center no-repeat fixed;
+		background: url(../images/bg/06.jpg) center center no-repeat fixed;
 	background-size: cover;
-	}
-
-	#seventh{
-		padding-bottom: 60px !important;
-		background: #fff;
-	}
-
-	#eighth{
 	}
 }
 
@@ -914,7 +907,7 @@ color: #fff !important;
 	}
 		
 	#fourth{
-		background: url(../images/bg/07.jpg) center center no-repeat fixed;
+		background: url(../images/bg/04.jpg) center center no-repeat fixed;
 	background-size: cover;
 	}
 	#fourth .bg{
@@ -925,16 +918,8 @@ color: #fff !important;
 	}
 
 	#sixth{
-		background: url(../images/bg/04.jpg) center center no-repeat fixed;
+		background: url(../images/bg/06.jpg) center center no-repeat fixed;
 	background-size: cover;
-	}
-
-	#seventh{
-		padding-bottom: 60px !important;
-		background: #fff;
-	}
-
-	#eighth{
 	}
 }
 
@@ -1007,7 +992,7 @@ color: #fff !important;
 	}
 		
 	#fourth{
-		background: url(../images/bg/07.jpg) center center no-repeat fixed;
+		background: url(../images/bg/04.jpg) center center no-repeat fixed;
 	background-size: cover;
 	}
 	#fourth .bg{
@@ -1018,16 +1003,8 @@ color: #fff !important;
 	}
 
 	#sixth{
-		background: url(../images/bg/04.jpg) center center no-repeat fixed;
+		background: url(../images/bg/06.jpg) center center no-repeat fixed;
 	background-size: cover;
-	}
-
-	#seventh{
-		padding-bottom: 60px !important;
-		background: #fff;
-	}
-
-	#eighth{
 	}
 }
 
@@ -1103,7 +1080,7 @@ color: #fff !important;
 	}
 		
 	#fourth{
-		background: url(../images/bg/07.jpg) center center no-repeat fixed;
+		background: url(../images/bg/04.jpg) center center no-repeat fixed;
 	background-size: cover;
 	}
 	#fourth .bg{
@@ -1114,16 +1091,8 @@ color: #fff !important;
 	}
 
 	#sixth{
-		background: url(../images/bg/04.jpg) center center no-repeat fixed;
+		background: url(../images/bg/06.jpg) center center no-repeat fixed;
 	background-size: cover;
-	}
-
-	#seventh{
-		padding-bottom: 60px !important;
-		background: #fff;
-	}
-
-	#eighth{
 	}
 }
 
@@ -1200,7 +1169,7 @@ color: #fff !important;
 	}
 		
 	#fourth{
-		background: url(../images/bg/07.jpg) center center no-repeat fixed;
+		background: url(../images/bg/04.jpg) center center no-repeat fixed;
 	background-size: cover;
 	}
 	#fourth .bg{
@@ -1211,15 +1180,7 @@ color: #fff !important;
 	}
 
 	#sixth{
-		background: url(../images/bg/04.jpg) center center no-repeat fixed;
+		background: url(../images/bg/06.jpg) center center no-repeat fixed;
 	background-size: cover;
-	}
-
-	#seventh{
-		padding-bottom: 60px !important;
-		background: #fff;
-	}
-
-	#eighth{
 	}
 }
